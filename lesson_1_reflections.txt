@@ -1,0 +1,1 @@
+diff helped me spot out all the errors, or differences, without having to scan through all the lines of code. It zeroed in on where the mistake could be.
