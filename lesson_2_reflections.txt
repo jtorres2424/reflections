@@ -1,0 +1,1 @@
+We initialize and empty repository. I need it because it can then help me keep track of different versions of the work I am about to do
